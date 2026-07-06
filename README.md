@@ -9,3 +9,12 @@ https://www.instagram.com/p/DZiOZ6_DHRp/?img_index=8
 
 
 #########################
+
+# Three main parts 
+
+1. EDA analysis project
+2. TIme-Series Analysis Project
+3. ML stock prediction Project
+
+##############################
+
