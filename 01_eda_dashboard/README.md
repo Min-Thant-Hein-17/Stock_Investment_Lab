@@ -73,6 +73,16 @@ streamlit run app.py
 
 ## Sample Findings
 
+1.Hugging face financial realted datasets: 
+https://huggingface.co/datasets?search=stock
+
+2.Kaggle Stock Investment Dataset:
+https://www.kaggle.com/datasets?search=stock+market
+
+3.
+
+
+
 - NVIDIA showed the highest return among selected stocks over the 2019–2024 period
 - Coca-Cola and PepsiCo are highly correlated (r > 0.85) — they tend to move together
 - All selected stocks show strong positive correlation with the S&P 500
